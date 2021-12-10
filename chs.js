@@ -1260,7 +1260,7 @@ var cnRegReplace = new Map([
     [/^([\d\.]+) Archery$/, '$1 射箭'],
     [/^([\d\.]+) Woodcutting$/, '$1 木刻'],
     [/^([\d\.]+) Woodworking$/, '$1 木工'],
-    [/^([\d\.]+) Culinary Arts":$/,9'$1 艺术'],
+    [/^([\d\.]+) Culinary Arts$/, '$1 艺术'],
     [/^([\d\.]+) Fishing$/, '$1 钓鱼'],
     [/^([\d\.]+) Knifesmanship$/, '$1 刀法'],
     [/^([\d\.]+) Mining$/, '$1 采矿'],
